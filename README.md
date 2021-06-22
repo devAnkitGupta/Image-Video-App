@@ -35,14 +35,13 @@ This project is a starting point for a Flutter application.
 
  4. Any feedback/notes (i.e. if something was hard, confusing, frustrating, etc)
      
-     if something was hard -- Not That Hard
-     confusing --- yes in beginning 
+     if something was hard -- Not That Hard,
+     confusing --- yes in beginning, 
      frustrating -- no
 
- b  what you would add/change if you had more time
+   what you would add/change if you had more time
     
     Really I would have changed the pagination Stratergy from the current current Plugin So I would have a golbal List of photos and videos and some logics so I will be able unmark favs from Favorites Page.
-
     Make UI a bit attractive
 
 
