@@ -24,22 +24,22 @@ This project is a starting point for a Flutter application.
 
 
 
-## 2. A short explanation of what you built.
+ 2. A short explanation of what you built.
   
   This app fetches photos and videos from Pexel's APi in an Pagination form
   and once loaded a user can see the Image and its details by tapping on it and for videos a user can play video by tapping on video. A user can add or remove the Images and videos to favorites by tapping on fav button.
 
-## 3. How to test/demo/run 
+ 3. How to test/demo/run 
      get packages 
      and run command `flutter run`
 
-## 4. Any feedback/notes (i.e. if something was hard, confusing, frustrating, etc)
+ 4. Any feedback/notes (i.e. if something was hard, confusing, frustrating, etc)
      
      if something was hard -- Not That Hard
      confusing --- yes in beginning 
      frustrating -- no
 
-## b  what you would add/change if you had more time
+ b  what you would add/change if you had more time
     
     Really I would have changed the pagination Stratergy from the current current Plugin So I would have a golbal List of photos and videos and some logics so I will be able unmark favs from Favorites Page.
 
