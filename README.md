@@ -1,4 +1,4 @@
-# rs_test
+# Clean Code Test
 
 A new Flutter project.
 
